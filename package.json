@@ -1,7 +1,12 @@
 {
   "urls": [
     ["aiocoap/__init__.py", "github:beriberikix/micropython-aiocoap/aiocoap/__init__.py"],
-    ["numbers/__init__.py", "github:beriberikix/micropython-aiocoap/aiocoap/numbers/__init__.py"]
+    ["numbers/__init__.py", "github:beriberikix/micropython-aiocoap/aiocoap/numbers/__init__.py"],
+    ["numbers/codes.py", "github:beriberikix/micropython-aiocoap/aiocoap/numbers/codes.py"],
+    ["numbers/constants.py", "github:beriberikix/micropython-aiocoap/aiocoap/numbers/constants.py"],
+    ["numbers/contentformat.py", "github:beriberikix/micropython-aiocoap/aiocoap/numbers/contentformat.py"],
+    ["numbers/optionnumbers.py", "github:beriberikix/micropython-aiocoap/aiocoap/numbers/optionnumbers.py"],
+    ["numbers/types.py", "github:beriberikix/micropython-aiocoap/aiocoap/numbers/types.py"]
   ],
   "version": "0.1"
 }
