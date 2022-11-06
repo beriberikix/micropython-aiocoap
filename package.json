@@ -1,6 +1,7 @@
 {
   "urls": [
     ["aiocoap/__init__.py", "github:beriberikix/micropython-aiocoap/aiocoap/__init__.py"],
+    ["aiocoap/protocol.py", "github:beriberikix/micropython-aiocoap/aiocoap/protocol.py"],
     ["numbers/__init__.py", "github:beriberikix/micropython-aiocoap/aiocoap/numbers/__init__.py"],
     ["numbers/codes.py", "github:beriberikix/micropython-aiocoap/aiocoap/numbers/codes.py"],
     ["numbers/constants.py", "github:beriberikix/micropython-aiocoap/aiocoap/numbers/constants.py"],
