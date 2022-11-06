@@ -9,8 +9,5 @@
     ["numbers/optionnumbers.py", "github:beriberikix/micropython-aiocoap/aiocoap/numbers/optionnumbers.py"],
     ["numbers/types.py", "github:beriberikix/micropython-aiocoap/aiocoap/numbers/types.py"]
   ],
-  "deps": [
-    ["asyncio", "latest"]
-  ],
   "version": "0.1"
 }
