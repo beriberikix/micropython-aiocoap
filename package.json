@@ -1,0 +1,6 @@
+{
+  "urls": [
+    ["aiocoap/__init__.py", "github:beriberikix/micropython-aiocoap/__init__.py"]
+  ],
+  "version": "0.1"
+}
